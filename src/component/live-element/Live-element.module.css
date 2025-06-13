@@ -1,0 +1,15 @@
+.LiveFeedInner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: aqua;
+  border-radius: 20px;
+  padding: 10px;
+  align-items: center;
+  gap: 10px;
+}
+
+.LiveFeedInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}

@@ -1,0 +1,10 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  gap: 40px;
+}
+
+.item {
+  background-color: #012b41;
+  border-radius: 20px;
+}
