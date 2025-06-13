@@ -18,6 +18,7 @@ const LiveElement: FC = () => {
         <p className={styles.NameUser}>Anton</p>
         <p className={styles.CountItem}>2000</p>
         <p className={styles.NameItem}>Резиновый</p>
+        <p className={styles.NameItem}>Резиновый</p>
       </div>
     </div>
   );
