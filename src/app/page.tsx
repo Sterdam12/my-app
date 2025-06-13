@@ -10,7 +10,6 @@ export default function Home() {
 
       <div>
         <MainSlider />
-        <p></p>
       </div>
 
       <div></div>
