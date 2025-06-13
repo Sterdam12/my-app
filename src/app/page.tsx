@@ -11,6 +11,7 @@ export default function Home() {
       <div>
         <MainSlider />
         <p></p>
+        <p></p>
       </div>
 
       <div></div>
